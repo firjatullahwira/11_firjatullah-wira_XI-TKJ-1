@@ -1,6 +1,6 @@
-#nama: M ANDHIKA TANGGUH P
+#nama: Firjatullah wira a
 #Kelas: XI TKJ 1
-#Absen: 17
+#Absen: 10
 #Soal: Sebuah bakteri pembelahan setiap 20 menit. Sebuah bakteri ditempatkan dalam lingkungan yang cocok dan berkembang biak dengan cepat. Buatlah program yang menghitung berapa kali pembelahan bakteri terjadi dalam rentang waktu 2 jam.
 
 menit = 130
